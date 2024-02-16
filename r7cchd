@@ -1,0 +1,1 @@
+sed -i 's/mode = \"full\"/mode = \"validator\"/g' $dHOME/.celestia-app/config/config.toml
